@@ -9,7 +9,6 @@
 ## - Hasta Ekle
 ## - Hasta Düzenle
 
-# CODED BY TURKLOJEN & MUHAMMED YASİN BULUT
 
 
 ![login](https://user-images.githubusercontent.com/32311900/79166179-4d8c8f80-7ded-11ea-94cd-2500afd7e6a7.JPG)
